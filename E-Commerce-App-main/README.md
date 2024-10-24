@@ -24,14 +24,7 @@ The navbar shows the number of products in the cart that we can access on each p
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-## Website Link 👇
-* You can visit my website by clicking the link below.
-Feel free to share your observations with me.
-
-https://hasan-e-commerce.netlify.app/
-
-## Website Overview
-https://github.com/ysnhasan1/E-Commerce-App/assets/102024926/ab739ec9-917c-4dba-b2fd-6a2215c5dd82
+https://github.com/Samy1233/ecocom.git
 
 ## Screenshots
 <div align="center">
