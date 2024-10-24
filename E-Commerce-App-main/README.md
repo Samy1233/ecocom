@@ -27,40 +27,7 @@ The navbar shows the number of products in the cart that we can access on each p
 https://github.com/Samy1233/ecocom.git
 
 ## Screenshots
-<div align="center">
-  
-`Loading Screen`
 
-<img src="https://github.com/ysnhasan1/E-Commerce-App/assets/102024926/1ff52573-a162-46e9-81e3-543ab57060da"><br />
-
-`Home Page`
-
-<img src="https://github.com/ysnhasan1/E-Commerce-App/assets/102024926/b30ae86d-da96-4107-a17d-2ba02500741c"><br />
-
-<img src="https://github.com/ysnhasan1/E-Commerce-App/assets/102024926/a02cec30-0743-4beb-9b28-3402a098baa2"><br />
-
-<img src="https://github.com/ysnhasan1/E-Commerce-App/assets/102024926/f277173a-4aa2-4eea-9b16-d40494a68de2"><br />
-
-<img src="https://github.com/ysnhasan1/E-Commerce-App/assets/102024926/e7f91421-5e63-40e9-8058-c750c85d60d4"><br />
-
-<img src="https://github.com/ysnhasan1/E-Commerce-App/assets/102024926/62f36174-f48b-4e23-9b19-d27dfdba1814"><br />
-
-`Details Page`
-
-<img src="https://github.com/ysnhasan1/E-Commerce-App/assets/102024926/ff3ae818-c629-4f78-a296-99df22ba9712"><br />
-
-<img src="https://github.com/ysnhasan1/E-Commerce-App/assets/102024926/326af687-6eea-4f66-a0c9-2d3fc39cc666"><br />
-
-<img src="https://github.com/ysnhasan1/E-Commerce-App/assets/102024926/a1b0156f-d187-4b53-a341-a46ab5b62d1c"><br />
-
-<img src="https://github.com/ysnhasan1/E-Commerce-App/assets/102024926/5da4d509-34ef-48ca-b513-fe8a6dc43a6c"><br />
-
-`Shopping Cart Page`
-
-<img src="https://github.com/ysnhasan1/E-Commerce-App/assets/102024926/54d69f10-5642-4f48-8c9a-32a66d0e7937"><br />
-
-<img src="https://github.com/ysnhasan1/E-Commerce-App/assets/102024926/3399f9a8-3972-43db-b395-ec2205869704"><br />
-</div>
 
 ## Responsive to Smaller Screen Size (Phone View)
 <div align="center">
